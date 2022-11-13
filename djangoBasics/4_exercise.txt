@@ -1,0 +1,3 @@
+1. https://news.mail.ru/currency/src/MOEX/charcode/USD/?utm_partner_id=428
+2. https://news.mail.ru/incident/53858751/?frommail=1&utm_partner_id=428
+3. https://tproger.ru/articles/how-css-flexbox-works/#card-chapter-5
